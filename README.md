@@ -14,9 +14,9 @@ I soon learned that Chess and computer science go hand in hand — both require 
 
 In 2024, I noticed classmates struggling in AP Computer Science A (Java). So I created and taught a **Java cram course**, helping them prep for the AP exam. I later hosted a **webinar for hundreds of students** in Gohar Khan’s CS community.
 
-In 2025, I graduated as **Salutatorian** of my high school with a **10.44 GPA**, which had been unseen in previous years. I was accepted into the **UF Honors Program**, which that year had admission standards comparable to Ivy Leagues — and I was also selected for the **University Research Scholars Program (URSP)**, offered to the **top 2%** of admitted students.
+In 2025, I graduated as **Salutatorian** of my high school with a **10.44 GPA**, which had been unseen in previous years (Also you should check out my speech on LinkedIn). I was accepted into the **UF Honors Program**, which that year had admission standards comparable to Ivy Leagues — and I was also selected for the **University Research Scholars Program (URSP)**, offered to the **top 2%** of admitted students.
 
-> 📊 URSP Acceptance Rate: 0.3% of total UF applicants — 10x more selective than Harvard
+📊 URSP Acceptance Rate: 0.3% of total UF applicants — 10x more selective than Harvard
 
 ---
 
