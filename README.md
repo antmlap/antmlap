@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Anthony Lapsley
+# Hi, I'm Anthony Lapsley
 
-🎓 UF Honors + URSP Computer Science 
+ UF Honors + URSP Computer Science 
 
 ---
 
@@ -16,20 +16,20 @@ In 2024, I noticed classmates struggling in AP Computer Science A (Java). So I c
 
 In 2025, I graduated as **Salutatorian** of my high school with a **10.44 GPA**, which had been unseen in previous years (Also you should check out my speech on LinkedIn). I was accepted into the **UF Honors Program**, which that year had admission standards comparable to Ivy Leagues — and I was also selected for the **University Research Scholars Program (URSP)**, offered to the **top 2%** of admitted students.
 
-📊 URSP Acceptance Rate: 0.3% of total UF applicants — 10x more selective than Harvard
+URSP Acceptance Rate: 0.3% of total UF applicants — 10x more selective than Harvard
 
 ---
 
-### 🔭 Looking Ahead
+### Looking Ahead
 At UF, I plan to:
-- 🚀 Launch a startup
-- 🧪 Research cybersecurity & agentic AI workflows
-- 🎉 Live the full college experience
+- Launch a startup
+- Research cybersecurity & agentic AI workflows
+- Live the full college experience
 
 Go Gators! 🐊 
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/anthony-lapsley-1a8579298/)
-- Email: anthonymlapsley@email.com
+- Email: anthonymlapsley@gmail.com
