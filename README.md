@@ -23,7 +23,7 @@ URSP Acceptance Rate: 0.3% of total UF applicants — 10x more selective than Ha
 ### Looking Ahead
 At UF, I plan to:
 - Launch a startup
-- Research cybersecurity & agentic AI workflows
+- Start Research through URSP 
 - Live the full college experience
 
 Go Gators! 🐊 
