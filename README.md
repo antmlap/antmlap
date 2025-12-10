@@ -40,9 +40,13 @@ Tech: Node.js, PostgreSQL, OpenAI API
 ## Technical Skills
 
 **Languages:** Python, Java, C++, TypeScript, SQL
+
 **Frameworks:** FastAPI, Node.js, Express, React
+
 **Systems:** Docker, Kubernetes, Redis, REST APIs, Linux
+
 **Data/ML:** pandas, numpy, scipy, yfinance, PyTorch, TensorFlow
+
 **Tools:** Git, GitHub, Bash, AWS, Heroku
 
 
