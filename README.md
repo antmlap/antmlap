@@ -11,25 +11,25 @@ I am part of the University Research Scholars Program (0.3 percent acceptance ra
 
 ## Featured Projects
 
-### MiniPilot — Lane-Keeping Assist Simulation (C++ / OpenCV)
+### MiniPilot — Lane-Keeping Assist Simulation (C++ / OpenCV) https://github.com/antmlap/miniPilot
 
 End-to-end lane-keeping system built using classical computer vision and control theory. Includes lane detection (Canny, Hough, ROI masking, lane classification, temporal smoothing), a tunable PID controller with anti-windup and output limits, and a physics-based bicycle model. Supports real-time visualization, video input, and telemetry logging.
 Tech: C++, OpenCV
 
 
-### Kalshi Arbitrage Bot — Automated Market Scanner (Python)
+### Kalshi Arbitrage Bot — Automated Market Scanner (Python) https://github.com/antmlap/kalshi-arbitrage-bot
 
 A production-ready engine that identifies arbitrage and instant-profit opportunities across prediction markets. Implements a rate-limited REST API client, retry logic, fee and payout modeling, liquidity screening, and ranked-opportunity detection.
 Tech: Python, REST APIs
 
 
-### ArmoLingo.com — Full-Stack Language Learning Platform
+### ArmoLingo.com — Full-Stack Language Learning Platform https://www.armolingo.com/
 
 An Armenian language-learning platform with interactive quizzes, dialect switching, JWT authentication, bcrypt hashing, and Redis rate-limiting.
 Tech: Node.js, Express, PostgreSQL, Redis
 
 
-### HabitPilot (iOS)
+### HabitPilot (iOS) https://github.com/antmlap/HabitPilot
 
 An AI-powered habit tracking app with personalized routines and social challenge features.
 Tech: Node.js, PostgreSQL, OpenAI API
