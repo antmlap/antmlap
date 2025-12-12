@@ -5,7 +5,7 @@ UF Honors • URSP Research Scholar • Computer Science @ University of Florida
 
 I'm a software engineer and CS student interested in systems engineering, computer vision, algorithms, and full-stack development. I like building projects from first principles — whether that means designing a lane-keeping system in C++, writing an arbitrage engine in Python, or creating full-stack production applications.
 
-I am part of the University Research Scholars Program (0.3 percent acceptance rate) and the UF Honors Program, and I graduated high school as Salutatorian with a 10.44 GPA. 
+I am part of the University Research Scholars Program (0.3% acceptance rate) and the UF Honors Program, and I graduated high school as Salutatorian with a 10.44 GPA. 
 
 ---
 
