@@ -23,12 +23,6 @@ A production-ready engine that identifies arbitrage and instant-profit opportuni
 Tech: Python, REST APIs
 
 
-### ArmoLingo.com — Full-Stack Language Learning Platform https://www.armolingo.com/
-
-An Armenian language-learning platform with interactive quizzes, dialect switching, JWT authentication, bcrypt hashing, and Redis rate-limiting.
-Tech: Node.js, Express, PostgreSQL, Redis
-
-
 ### HabitPilot (iOS) https://github.com/antmlap/HabitPilot
 
 An AI-powered habit tracking app with personalized routines and social challenge features.
